@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Forskelle - Web 1.0 og Web 2.0</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41303</md:content-id>
+  <md:title>Forskelle - Web 1.0 og Web 2.0</md:title>
+  <md:abstract/>
+  <md:uuid>fd8fd2c3-4bc3-48ed-8c47-dde5514facfa</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-437"><title>Forskelle  Web 1.0 og Web 2.0</title><para id="eip-773">
+Web 2.0 refererer til anden generation af tjenester, der er tilgængelige på Internet, der lader brugere samarbejde om og dele information online. I modsætning til den første generation giver Web 2.0 brugere en oplevelse, der minder mere om traditionel softwareprogrammel end en statisk webside. 
+</para></section><para id="eip-452">Web 2.0 er en generation af tjenester på nettet, der lader brugere interagere og samarbejde med hinanden om forskellige former for information online. </para><para id="delete_me">Web 2.0 handler om at skabe relationer mellem mennesker i cyperspace, ved hjælp af Social Software. Begrebet web 2.0 blev opfundet af <link url="http://oreilly.com/web2/archive/what-is-web-20.html">Tim O´Reilly</link>, og dækker over forskellige kommunikationsværktøjer fx 
+<term document="m41300" target-id="eip-49">Blogs</term>, Chats, <term document="m4130" target-id="eip-983">Wikis</term>, og Foraer.</para>
+
+<figure id="fs-id1170946589808"><media id="fs-id1170947668676" alt="tag cloud">
+<image mime-type="image/png" src="web3.png"/>
+</media>
+
+<caption>illustration af web 2.0.
+</caption></figure> 
+
+<section id="eip-469"><title>Forskelle og Fordele</title><para id="eip-19">
+Udbyderne af Social Software tilbyder for det meste gratis brug af værktøjerne. Social Software er mange-til-mange kommunikation, hvor fx Email kan være en-til-en kommunikation. 
+</para></section><section id="eip-968"><title>Fokus på brugeren</title><para id="eip-660">
+Web 2.0 har brugeren i centrum. 
+Brugen af Social Software kan være en fordel for virksomheder der skal have en intern vidensdeling, hvor man kan sende en information ud som alle kan se, og alle kan se beskeden, og skrive kommentarer til. Social Software kan også være en fordel for mennesker ude i det civile samfund, at man fx kan aftale møder, ferier, sammenkomster osv.
+Social Software er dynamiske websider, der kan være programmeret i PHP eller ASP. De bliver opdateret regelmæssigt, og er som regel brugervenlige og for det meste gratis at benytte.  
+</para></section><section id="eip-599"><title>Web 1.0</title><para id="eip-153"><definition id="def-web1"><term>Web 1.0</term>
+<meaning id="eip-id1163629761874">Begrebet Web 1.0 dækker over brugen af internettet gældende i 90'erne. Web 1.0's typiske teknologi var almindelige statiske 
+<term document="m41304" target-id="def-html">HTML-baserede</term>       
+hjemmesider, der mest blev brugt som visitkort. Siderne blev kun opdaterede når der var sket markante ændringer i fx en virksomheds forhold. Derudover var det kun web-professionelle der kunne opdatere en hjemmeside.</meaning>
+</definition> Web 1.0 var forbeholdt Virksomheder, <term document="m41304" target-id="def-html">HTML</term>       
+
+, Hjemmesider, Portaler, Ledninger, Taxonomier, ejerskab af websites, Netscape, Web forms. 
+</para></section><section id="eip-601"><title>Web 2.0</title><para id="eip-113"><definition id="def-web2"><term>web 2.0</term>
+<meaning id="eip-id1166180292041">Web 2.0 er fortsættelsen på web 1.0, her er  det brugeren der er i centrum. Web 2.0 anvendes typisk om websites og webkommuikation der er karakteriseret ved bruger-til-bruger aktivitet. Her kan brugere selv være med til at skabe information</meaning></definition>
+Web 2.0 er fællesskab, netværk mellem computere, <term document="" target-id="" window="new">XML</term>, Blogs, Chats, <link url="http://www.webopedia.com/TERM/R/RSS.html">RSS</link>, Tags, Wireless, Google, Deling. 
+</para></section>
+</content>
+
+</document>

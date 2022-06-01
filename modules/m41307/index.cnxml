@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Øvelser</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41307</md:content-id>
+  <md:title>Øvelser</md:title>
+  <md:abstract/>
+  <md:uuid>52da2acd-2f44-4411-a08f-26bce59ea700</md:uuid>
+</metadata>
+
+<content>
+ <exercise id="e1"><label>Øvelse</label>
+  <problem id="pr1">
+    <para id="p1">Overvej hvad du har brugt webbet til i den sidste uges tid?</para>
+  </problem>
+  <commentary id="c1" type="follow-up">
+   <preformat id="pre1">     <emphasis effect="italics">Eksempel: Netbank, mail, facebook...</emphasis><newline/>
+</preformat>
+  </commentary>
+ </exercise>
+
+ <exercise id="e2"><label>Øvelse</label>
+  <problem id="pr2">
+    <para id="p3">Overvej i hvor høj grad disse aktiviteter afspejler eller udnytter forskellige web 2.0 teknologier. Hvilke?!
+    <newline/>
+<newline/>
+
+    </para>
+  </problem></exercise>
+
+
+ <exercise id="e3"><label>Øvelse</label>
+  <problem id="pr3">
+    <para id="p5">I hvilket omfang kunne du have opnået det samme uden brug af disse teknologier?
+<newline/>
+<newline/>
+</para>
+  </problem>
+ </exercise>
+
+
+ <exercise id="e4"><label>Øvelse</label>
+  <problem id="pr4">
+    <para id="p7">Overvej i hvilken grad web 2.0 teknologierne påvirker den personlige interaktion i din hverdag?
+<newline/>
+<newline/>
+</para>
+  </problem>
+ </exercise>
+
+</content>
+
+</document>

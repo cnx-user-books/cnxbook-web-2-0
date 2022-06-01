@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Interaktion mellem brugere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41300</md:content-id>
+  <md:title>Interaktion mellem brugere</md:title>
+  <md:abstract>Teknologierne på web 2.0 muliggør i høj grad involvering af brugerne, hvor de specielt via diverse bidrag, kommunikation og interaktion får mulighed for at socialisere sig på web 2.0 platformen.</md:abstract>
+  <md:uuid>3f9435cf-d8fc-4f5b-bb8b-65603f212d1e</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-104"><title>Nye teknologier og interaktion</title><para id="intro">
+Et af de karakteristika, der har været afgørende for, at 
+<term document="m41303" target-id="def-web2">web 2.0</term>       
+i dag kan beskrives som 2.0 platformen, er fremkomsten og brugen af nye teknologier. Teknologier skal forstås som de programmer, systemer og medier der muliggør informationsdeling på nettet.
+ 
+Teknologierne på <term document="m41303" target-id="def-web2">web 2.0</term> muliggør i høj grad involvering af brugerne, hvor de specielt via diverse bidrag, kommunikation og interaktion får mulighed for at socialisere sig på <term document="m41303" target-id="def-web2">web 2.0</term> platformen. 
+
+Nogle af de mest kendte teknologier på <term document="m41303" target-id="def-web2">web 2.0</term> platformen er Wikis og Blogs.  Begge teknologier er funderet i brugerinvolvering, hvor det er brugerne, der sætter dagsordenen og bestemmer, hvad der skal ud på nettet.
+</para></section>
+
+<section id="eip-49">
+<title>Blogs</title>
+<para id="blogs">
+En blog, også kaldet en weblog, kan beskrives som en dagbog på nettet. En blog vises i omvendt kronologisk rækkefølge, hvilket vil sige, at der på sitet først vises de nyeste indlæg. Ved de fleste blogs er der mulighed for at give kommentarer på de forskellige indlæg.
+Bloggen, som vi kender den idag, bruges ofte som en slags personlig dagbog, men det ses dog også i højere grad, at bloggen er blevet et kommunikationsredskab for diverse organisationer både internt og eksternt.
+</para></section>
+<para id="dst">
+  Statistik om blog, chat og downloadning på
+  <link url="http://www.dst.dk/pukora/epub/Nyt/2009/NR273.pdf" window="new">Danmarks Statistik</link>.
+</para>
+
+<section id="eip-983">
+<title>Wikis</title>
+<para id="wikis">
+En wiki er et site, hvor brugere i fællesskab kan samarbejde om at oprette, redigere eller slette sider. Wikis bruges primært som opslagsværk, og derfor centreres wikis ofte omkring et bestemt emne eller fagområde.
+Wikis findes både brugt i diverse organisationer samt af privat personer og også som det store elektroniske opslagsværk på nettet. Oprettelsen eller redigeringen af en wiki foregår i en editor, som er et meget brugervenligt program, og dette fokus på brugervenlighed er højst sandsynligvis en faktor, der har haft indvirkning på wikis popularitet.
+</para></section>
+<figure id="fig1">
+<media id="fs-id1170678585572" alt="wikieditor">
+  <image mime-type="image/jpeg" src="wikieditor.jpg"/>
+</media>
+ <caption>
+    Wiki editor.
+</caption>
+</figure>
+
+
+<section id="eip-356"><title>Åbne læringsplatforme</title><para id="læringsplatforme">
+En anden teknologi der er fremkommet i takt med <term document="m41303" target-id="def-web2">web 2.0</term> er åbne e-læringsplatforme. Åbne læringsressourcer kan beskrives som alt det tilgængelige digitale materiale, det er muligt at finde på nettet. 
+De åbne e-læringsplatforme er udarbejdet med henblik på at skabe et forum, der gør det muligt, i fællesskab, at dele sin viden og vise sin forståelse af et begreb eller inden for et område.
+</para></section>
+
+<section id="eip-779"><title>Interaktion mellem brugere</title><para id="interaktion">
+Interaktion mellem brugere er mere end nogensinde før i fokus på det digitale medie. Det handler om at skabe fællesskaber, hvor det er muligt at samarbejde og dele viden. 
+
+Brugerne er ikke længere passive forbrugere af den digitale viden men i højere grad medproducenter eller bidragsydere. Interaktionen mellem brugerne er blevet et must for udarbejdelse af viden eller revision af samme på <term document="m41303" target-id="def-web2">web 2.0</term>. 
+</para></section>
+</content>
+
+</document>

@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Sociale medier</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41302</md:content-id>
+  <md:title>Sociale medier</md:title>
+  <md:abstract>I dette modul gives en kort introduktion til sociale medier.</md:abstract>
+  <md:uuid>75a1f7c3-f5be-44d6-808b-807da97212db</md:uuid>
+</metadata>
+
+<content>
+
+
+ <section id="s1">
+  <title>Hvad er sociale medier?</title>
+  <para id="p1">
+  Sociale medier er web-baserede services, der tilbyder brugerne mulighed for interaktiv dialog, samt videns- og informationsdeling. Sociale medier er desuden gennemsyret af ideen om brugergenereret indhold, som skal være lettilgængeligt og let at oprette.  
+  </para>
+ </section>
+
+
+ <section id="s2"><title>Sociale medier og <term document="" target-id="" window="new">web 2.0</term></title><para id="p2">Sociale medier er en indgroet det af det vi kender som <term document="m41303" target-id="def-web2">web 2.0</term>. Af samme grund domineres de sociale medier også af den sammen tankegang som kendetegner <term document="m41303" target-id="def-web2">web 2.0</term> generelt. Et stærkt fokus på brugerinteraktion og kollaborativt, brugergenereret indhold, samt deling af alt lige fra små historier og opdateringer fra hverdagen til billeder og videoklip. På <term document="m41303" target-id="def-web2">web 2.0</term> skaber brugeren selv sin weboplevelse og de sociale medier gør det muligt at dele sine oplevelser med andre, på mange og vidt forskellige måder. Derfor er det heller ikke uden grund, at <term document="m41303" target-id="def-web2">web 2.0</term> ofte også betegnes som "det sociale web". </para>
+ </section>
+
+
+ <section id="s3">
+  <title>Eksempler på sociale medier</title>  
+  <list id="list1">   
+   <item>Facebook</item>
+   <item>Twitter</item>
+   <item>MySpace</item>
+   <item>Flickr</item>
+   <item>YouTube</item>
+   <item>Del.icio.us</item>
+   <item>LinkedIn</item>
+   <item>Wikipedia</item>
+  </list>
+ </section>
+
+
+ <section id="s4">
+  <title>Fakta om sociale medier</title>  
+  <list id="list2">   
+   <item>Befolkningen i USA bruger 22% af deres online tid på sociale medier</item>
+   <item>Alene i december 2009 var der mere end en milliard tweets på twitter</item>
+   <item>Facebook rundede i juni 2011 mere end 750 millioner brugere</item>
+  </list>
+ </section>
+
+
+</content>
+
+</document>
