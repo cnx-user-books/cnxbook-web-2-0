@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="da">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="da" authors="Jesper Jensen">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11370</md:content-id>
     <md:title>Web 2.0</md:title>
     <md:language>da</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>8ff36db8-278b-4ea1-8628-73f0f569e6aa</md:uuid>
-<md:slug>web-2-0</md:slug>
-</metadata>
+    <md:slug>web-2-0</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m41303"/>
     <col:module document="m41302"/>
